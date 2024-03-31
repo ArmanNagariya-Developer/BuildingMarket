@@ -13,4 +13,4 @@ Step 4: Now run cmd nodemon index.js or node index.js
 
 Home Page :
 
-![Uploading image.png…]()
+![image](https://github.com/ArmanNagariya-Developer/BuildingMarket/assets/132456280/12608ac6-7b3c-4394-af6d-5efac73811da)
