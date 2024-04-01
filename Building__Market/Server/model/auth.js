@@ -6,6 +6,6 @@ email:String,
 password:String
 });
 
-const userRegisterModel = mongoose.model("userregister",StudentSchema)
+const userRegisterModel = mongoose.model("userregister",registerSchema)
 
 module.exports = userRegisterModel;
